@@ -1,0 +1,8 @@
+---
+layout: slide
+title: "Welcome to our second slide!"
+---
+"WOW"
+Use the left arrow to go back!
+---
+Text added to slide
